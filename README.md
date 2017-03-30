@@ -22,5 +22,6 @@ Programming: More Than Writing code***)第一章，决定从此在Github的这�
 
 **就像 Jeff Atwood 在 Twitter 所说：**
 
->每一天，你一定要一起床就热情澎湃。否则，你就只是在打工
+>每一天，你一定要一起床就热情澎湃。否则，你就只是在打工。
+
 **愿我们每个人共同努力，共勉💪**
